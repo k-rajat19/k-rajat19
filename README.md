@@ -19,7 +19,7 @@
   ### My Experiences
   
   - Added new features in [Facebook's Jest](https://github.com/facebook/jest).
-  - Front-end dev at  <a href="https://brandwick.com/"> brandwick </a> - Converting high-end UI design's into React Component's. 
+  - Front-end dev at  <a href="https://brandwick.com/"> brandwick </a> - Working with React Component's. 
   
     
        
