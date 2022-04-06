@@ -16,17 +16,6 @@
 👨‍💻 I’m  a student pursuing my Bachelors .
   I am passionate about  Web Dev, DevOps & I enjoy learning new things. </br>
   
-  ### My Experiences
-  
-  - Added new features in [Facebook's Jest](https://github.com/facebook/jest).
-  - Front-end engineer at brandwick , working in React Ecosystem.    
-  
-    
-       
-  
-  
-
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-rajat19&show_icons=true&locale=en&theme=tokyonight" alt="k-rajat19" /></p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=k-rajat19.k-rajat19)
