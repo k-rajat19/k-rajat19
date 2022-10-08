@@ -18,4 +18,4 @@
   
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-rajat19&show_icons=true&locale=en&theme=tokyonight" alt="k-rajat19" /></p> -->
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=k-rajat19.k-rajat19)
+
