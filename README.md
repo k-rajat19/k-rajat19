@@ -1,4 +1,4 @@
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat !
+<!-- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat !
 
 <a href="https://twitter.com/rdrajatv">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
@@ -14,7 +14,7 @@
 
 ### About Me 
 👨‍💻 I’m  a student pursuing my Bachelors .
-  I am passionate about  Web Dev, DevOps & I enjoy learning new things. </br>
+  I am passionate about  Web Dev, DevOps & I enjoy learning new things. </br> -->
   
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=k-rajat19&show_icons=true&locale=en&theme=tokyonight" alt="k-rajat19" /></p> -->
 
