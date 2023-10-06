@@ -1,5 +1,4 @@
- ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, I'm Rajat !
-
+ 
 <a href="https://twitter.com/rdrajatv">
   <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -11,9 +10,8 @@
 </a>
 
 <br />
-
-### About Me 
-👨‍💻 I’m  a student pursuing my Bachelors .
-  I am passionate about  Web Dev, DevOps & I enjoy learning new things. </br>" 
+ 
+Currently, I am trying to get a job with some of the languages that i use.
+</br>" 
 
 
