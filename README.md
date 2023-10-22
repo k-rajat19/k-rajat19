@@ -1,7 +1,7 @@
  
 
 Hey 👋 <br/>
-Currently, I am trying to get a job with some of the languages that i use.
+Currently, I am trying to get a job with some of the languages that i use.<br/>
 Please reach out to me if you have any opportunity. 
 Thanks! 
 
