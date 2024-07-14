@@ -1,7 +1,6 @@
  
 
 Hey 👋<br/>
-Let's Connect :
 <!--I'm a student pursuing my bachelor's <br/>
 Currently I have:
 - [Contributing to Carbon design system](https://github.com/carbon-design-system/carbon/pulls?q=is%3Apr+is%3Aclosed+author%3Ak-rajat19) to create and maintain components in React while ensuring that components were  WCAG compilant and ensured all components. Also Improving Component's reliability by increasing overall test coverage using React testing library.
